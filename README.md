@@ -12,4 +12,4 @@ I've also included the generated model file "my_model.h5". You can re-run the mo
 
 This project was created to classify the text found within news websites. The primary website used is the light-weight version of cnn: http://lite.cnn.io/en
 
-This makes scraping the data very easy as the texts are found within <p> tags.
+This makes scraping the data very easy as the texts are found within paragraph tags.
